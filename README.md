@@ -45,8 +45,6 @@ Every high-risk customer (churn probability ≥ 0.7) gets a GPT-generated explan
 **Page 2 — Risk Segments:** churn by contract type & monthly charges, interactive filters
 **Page 3 — High-Risk Customer Explorer:** searchable table with AI-generated explanations
 
-📹 [Watch the walkthrough video](#) *(add your link here)*
-
 ## 🛠️ Tech Stack
 `MySQL` · `Python` (Pandas, scikit-learn, XGBoost) · `Groq API` (GPT-oss-20b) · `Power BI` · `SQLAlchemy`
 
